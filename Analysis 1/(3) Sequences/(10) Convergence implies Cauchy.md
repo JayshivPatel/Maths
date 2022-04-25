@@ -1,0 +1,1 @@
+If $a_n \rightarrow a$ then $(a_n)$ is a [[(9) Cauchy Sequence]]

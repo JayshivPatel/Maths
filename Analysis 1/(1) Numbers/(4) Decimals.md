@@ -1,0 +1,3 @@
+- Decimals are defined as expected
+- $a_0 + a_1/10 + a_2/100 + \ ....$
+- Where each $a_i \in \{0,1,...9\}$

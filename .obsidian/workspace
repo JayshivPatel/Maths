@@ -7,8 +7,12 @@
         "id": "c22b5235a877c933",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Analysis 1/(4) Series/(5) When Series' converge.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Analysis 1/(4) Series/(5) When Series' converge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +88,16 @@
     "collapsed": true
   },
   "active": "c22b5235a877c933",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Analysis 1/(4) Series/(5) When Series' converge.md",
+    "Analysis 1/(4) Series/(1) Series.md",
+    "Analysis 1/(4) Series/(4) Convergence implies Sequence converges to 0.md",
+    "Analysis 1/(4) Series/(3) Converges (Series).md",
+    "Analysis 1/(4) Series/(2) Partial Sums.md",
+    "Analysis 1/(3) Sequences/(1) Sequence.md",
+    "Analysis 1/(4) Series/Untitled 8.md",
+    "Analysis 1/(4) Series/Untitled 7.md",
+    "Analysis 1/(4) Series/Untitled 6.md",
+    "Analysis 1/(4) Series/Untitled 5.md"
+  ]
 }

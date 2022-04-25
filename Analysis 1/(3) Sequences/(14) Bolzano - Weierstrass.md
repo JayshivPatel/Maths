@@ -1,0 +1,1 @@
+If $(a_n)$ is a [[(7) Bounded]] [[(1) Sequence]] of real numbers then it has a [[(13) Subsequence]] that [[(2) Converges]]

@@ -1,0 +1,6 @@
+- Maximums are unique
+- A set $\emptyset \ne S \subset \mathbb{R}$ is bounded above $\iff$ $\exists M \in \mathbb{R} \ such \ that  \ \forall x \in S, x \le M$
+- With M being the upper bound
+- A set $\emptyset \ne S \subset \mathbb{R}$ is bounded below $\iff$ $\exists M \in \mathbb{R} \ such \ that  \ \forall x \in S, x \ge M$
+- With M being the lower bound
+- A set is bounded $\iff$ it is bounded above and below

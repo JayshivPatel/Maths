@@ -1,0 +1,8 @@
+- For all [[(1) Rationals]]
+- $x > 0 \ or  \ x = 0 \ or -x > 0$
+- And for fixed $a \in \mathbb{Q}$ 
+	- $x > a \ or  \ x = a \ or -x > a$
+- $x > 0, y > 0 \implies x + y > 0$
+- $x > 0, y > 0 \implies xy > 0$
+- $\forall x \in \mathbb{Q} \ \exists n \in \mathbb{N} : n > x$
+- 

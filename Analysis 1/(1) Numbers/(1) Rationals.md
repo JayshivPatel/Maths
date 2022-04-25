@@ -1,0 +1,5 @@
+- $\mathbb{Q} := {(p,q) \in \mathbb{Z} \times \mathbb{N}}$  
+- Over the equivalence relation : 
+	- ($p_1, q_1$) ~ ($p_2, q_2$) $\iff$ $p_1q_1 = p_2q_1$
+	- And the equivalence class is denoted as $p/q$
+	- 

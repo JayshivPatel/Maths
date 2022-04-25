@@ -1,0 +1,1 @@
+$(a_n)$ is a [[(9) Cauchy Sequence]] $\implies (a_n)$ is [[(7) Bounded]]

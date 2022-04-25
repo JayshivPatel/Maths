@@ -1,0 +1,10 @@
+- Hold for all [[(1) Rationals]]: 
+- $a + b = b + a$
+- $a \times b = b \times a$
+- $a + (b + c) = (a + b) + c$
+- $a \times (b \times c) = (a \times b) \times c$
+- $a \times (b + c) = (a \times b) + (a \times c)$
+- $\exists 0 \in \mathbb{Q}: a + 0 = a$
+- $\exists 1 \in \mathbb{Q} : 0 \ne 1, a \times 1 = a$
+- $\forall a \in \mathbb{Q} \exists a^{-1} \in \mathbb{Q} : a \times (a^{-1}) = 1$
+- $\forall a \in \mathbb{Q}$ \ $\{0\} \ \exists a^{-1} \in \mathbb{Q} : a \times (a^{-1}) = 1$

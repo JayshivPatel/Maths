@@ -1,0 +1,1 @@
+$\mathbb{Q}$ is [[(1) Countable]]

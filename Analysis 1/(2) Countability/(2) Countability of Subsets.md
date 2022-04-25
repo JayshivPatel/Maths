@@ -1,0 +1,1 @@
+For some $S \subset \mathbb{N}$ infinite, S is [[(1) Countable]]
