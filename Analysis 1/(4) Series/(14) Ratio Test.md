@@ -1,0 +1,1 @@
+For some $a_n$ with $|\frac {a_{n+1}}{a_n}| \rightarrow r < 1$ then $\sum a_n$ [[(9) Absolutely Converges (Series)]] 

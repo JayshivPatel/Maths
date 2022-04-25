@@ -1,0 +1,1 @@
+If $a_n$ is alternating with $|a_n| \downarrow 0$ , then $\sum a_n$ [[(3) Converges (Series)]]]

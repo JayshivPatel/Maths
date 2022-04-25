@@ -1,0 +1,1 @@
+if $|a_n|^{\frac{1}{n}} \rightarrow r < 1$ then $\sum a_n$ [[(9) Absolutely Converges (Series)]]

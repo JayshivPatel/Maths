@@ -7,12 +7,8 @@
         "id": "c22b5235a877c933",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Analysis 1/(4) Series/(5) When Series' converge.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis 1/(4) Series/(5) When Series' converge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "c22b5235a877c933",
   "lastOpenFiles": [
-    "Analysis 1/(4) Series/(5) When Series' converge.md",
-    "Analysis 1/(4) Series/(1) Series.md",
-    "Analysis 1/(4) Series/(4) Convergence implies Sequence converges to 0.md",
-    "Analysis 1/(4) Series/(3) Converges (Series).md",
-    "Analysis 1/(4) Series/(2) Partial Sums.md",
-    "Analysis 1/(3) Sequences/(1) Sequence.md",
-    "Analysis 1/(4) Series/Untitled 8.md",
-    "Analysis 1/(4) Series/Untitled 7.md",
-    "Analysis 1/(4) Series/Untitled 6.md",
-    "Analysis 1/(4) Series/Untitled 5.md"
+    "Analysis 1/Untitled 1.md",
+    "Analysis 1/Untitled.md",
+    "Analysis 1/(4) Series/(23) Exponential Power Series.md",
+    "Analysis 1/(4) Series/(22) Radius of convergence of Cauchy Products.md",
+    "Analysis 1/(4) Series/(21) Absolute convergence of Cauchy Products.md",
+    "Analysis 1/(4) Series/(20) Cauchy Product.md",
+    "Analysis 1/(4) Series/(19) Finding the radius of convergence.md",
+    "Analysis 1/(4) Series/(18) Radius of Convergence.md",
+    "Analysis 1/(4) Series/(17) Absolute convergence and rearrangements.md",
+    "Analysis 1/(4) Series/(16) Rearrangement.md"
   ]
 }
