@@ -1,0 +1,1 @@
+If f(x) is [[(1) Differentiable]] at a, then it is [[(2) Continuous]] at a

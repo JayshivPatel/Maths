@@ -1,0 +1,1 @@
+A set $S \subset \mathbb{R}$ is open $\iff$ its complement $t = \mathbb{R}$ \ $S$ is closed

@@ -1,0 +1,1 @@
+Given finitely many [[(13) Open Sets]], their intersection is open

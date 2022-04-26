@@ -1,0 +1,1 @@
+For some $f(x) = \sum_{i = 0}^{\infty} a_ix^i$ with [[(18) Radius of Convergence]] R > 0, f is [[(2) Continuous]] on the open interval (-R, R)

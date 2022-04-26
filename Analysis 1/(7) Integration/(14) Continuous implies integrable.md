@@ -1,0 +1,1 @@
+For some [[(2) Continuous]] function f, f is [[(11) Integrable]]

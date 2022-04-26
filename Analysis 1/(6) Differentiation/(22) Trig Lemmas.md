@@ -1,0 +1,2 @@
+- $\exists x \in \mathbb{R}^+ y > 0 \ such \ that  \ sin(y) = 0$ (where y = pi)
+- $sin(x+2\pi) = sin(x)$ and $cos(x + 2\pi) = cos(x)$

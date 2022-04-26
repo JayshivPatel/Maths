@@ -1,0 +1,1 @@
+If S is a [[(17) Compact Set]] and $f: S \rightarrow \mathbb{R}$ is [[(2) Continuous]], then f is [[(21) Uniformly Continuous]]

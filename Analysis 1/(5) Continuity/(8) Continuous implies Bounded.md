@@ -1,0 +1,1 @@
+If $f : [a, b] \rightarrow \mathbb{R}$ is [[(2) Continuous]] then it is [[(7) Bounded]]

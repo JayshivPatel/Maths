@@ -1,0 +1,1 @@
+Prop (1.7) If p(x) is a polynomial of odd degree then p(x) has a root

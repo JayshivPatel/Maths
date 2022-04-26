@@ -1,0 +1,1 @@
+For f, g that are [[(2) Continuous]] on \[a, b] and [[(1) Differentiable]] on (a,b), if $f'(x) = g'(x) \forall x \in (a,b)  \ \exists c \in \mathbb{R} \ such \ that f(x) = g(x) + c  \ \forall x \in [a,b]$

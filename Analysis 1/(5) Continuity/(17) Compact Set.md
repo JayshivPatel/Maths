@@ -1,0 +1,1 @@
+A set $S \subset \mathbb{R}$ is compact $\iff$ it is a [[(16) Closed sets]] and it is [[(7) Bounded]]

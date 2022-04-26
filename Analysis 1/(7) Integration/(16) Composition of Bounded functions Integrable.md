@@ -1,0 +1,2 @@
+For some f(x) [[(11) Integrable]] with $m \le f(x) \le M \ \forall x \in [a,b] \ with \ g:[m,M] \rightarrow \mathbb{R}$ [[(2) Continuous]] we have that:
+$h(x) = g(f(x))$ is also [[(11) Integrable]] on \[a,b]

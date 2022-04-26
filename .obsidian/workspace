@@ -7,8 +7,12 @@
         "id": "c22b5235a877c933",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Analysis 1/(7) Integration/(28) Comparison test for Improper Integrals.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Analysis 1/(7) Integration/(28) Comparison test for Improper Integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "c22b5235a877c933",
   "lastOpenFiles": [
-    "Analysis 1/Untitled 1.md",
-    "Analysis 1/Untitled.md",
-    "Analysis 1/(4) Series/(23) Exponential Power Series.md",
-    "Analysis 1/(4) Series/(22) Radius of convergence of Cauchy Products.md",
-    "Analysis 1/(4) Series/(21) Absolute convergence of Cauchy Products.md",
-    "Analysis 1/(4) Series/(20) Cauchy Product.md",
-    "Analysis 1/(4) Series/(19) Finding the radius of convergence.md",
-    "Analysis 1/(4) Series/(18) Radius of Convergence.md",
-    "Analysis 1/(4) Series/(17) Absolute convergence and rearrangements.md",
-    "Analysis 1/(4) Series/(16) Rearrangement.md"
+    "Analysis 1/(7) Integration/(28) Comparison test for Improper Integrals.md",
+    "Analysis 1/(7) Integration/(27) Improper Integral.md",
+    "Analysis 1/(7) Integration/(26) Integrating power series.md",
+    "Analysis 1/(6) Differentiation/(21) Differentiation of power series.md",
+    "Analysis 1/(6) Differentiation/(22) Trig Lemmas.md",
+    "Analysis 1/(7) Integration/(25) Sequences of Integrable Functions.md",
+    "Analysis 1/(7) Integration/(13) Integral as limit of sequences.md",
+    "Analysis 1/(7) Integration/(14) Continuous implies integrable.md",
+    "Analysis 1/(7) Integration/(12) Integrable by partitions.md",
+    "Analysis 1/(7) Integration/(11) Integrable.md"
   ]
 }

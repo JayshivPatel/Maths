@@ -1,0 +1,1 @@
+Given any number of [[(13) Open Sets]] , their union is open

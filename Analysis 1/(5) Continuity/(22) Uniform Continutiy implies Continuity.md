@@ -1,0 +1,1 @@
+If $f: S \rightarrow \mathbb{R}$ is [[(21) Uniformly Continuous]] then it is [[(2) Continuous]]
