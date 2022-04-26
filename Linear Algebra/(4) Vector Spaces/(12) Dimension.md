@@ -1,0 +1,1 @@
+For a finite-dimensional [[(1) Vector Space]], its dimension (dim V) is the smallest n such that V has a [[(9) Spanning Set]] of size n

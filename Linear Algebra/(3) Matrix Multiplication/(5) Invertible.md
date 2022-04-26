@@ -1,0 +1,1 @@
+A matrix is invertible if its [[(4) Inverse]] exists

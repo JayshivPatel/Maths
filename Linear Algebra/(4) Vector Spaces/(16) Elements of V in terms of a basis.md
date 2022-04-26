@@ -1,0 +1,1 @@
+For some [[(15) Basis]](b), we can write every element in V as [[(5) Linear Combination]]s of vectors in b.

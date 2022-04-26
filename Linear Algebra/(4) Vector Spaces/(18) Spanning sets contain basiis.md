@@ -1,0 +1,1 @@
+Any finite [[(9) Spanning Set]] contains a [[(15) Basis]]

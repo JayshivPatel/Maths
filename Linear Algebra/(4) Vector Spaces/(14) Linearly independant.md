@@ -1,0 +1,1 @@
+If a set S is not [[(13) Linearly dependent]] then it is *linearly independent* 

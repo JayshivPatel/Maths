@@ -1,0 +1,1 @@
+For some [[(9) Spanning Set]] S, you can take away some y $\in$ S and replace it with an x $\in$ V and have S' still be a spanning set

@@ -1,0 +1,1 @@
+The [[(15) Basis]] for a finite dimensionall [[(1) Vector Space]] with dim V = n, is finite and has size n

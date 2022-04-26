@@ -1,0 +1,1 @@
+$\mathbb{R}^n$ is the set of all column vectors of height n whose entries are real

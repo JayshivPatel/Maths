@@ -1,0 +1,1 @@
+A linear system is consistent if it has solutions, otherwise it is inconsistent

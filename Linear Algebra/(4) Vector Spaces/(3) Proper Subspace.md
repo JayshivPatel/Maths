@@ -1,0 +1,1 @@
+A [[(2) Subspace]] that isn't the [[(1) Vector Space]] itself and not the trivial [[(2) Subspace]] of {$0_v$}

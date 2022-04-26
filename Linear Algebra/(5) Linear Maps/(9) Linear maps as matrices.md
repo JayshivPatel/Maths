@@ -1,0 +1,1 @@
+For some $f: \mathbb{R}^k \rightarrow \mathbb{R}^n$ we have that f can be represented by a n x k matrix

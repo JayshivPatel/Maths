@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis 1/(7) Integration/(28) Comparison test for Improper Integrals.md",
+            "file": "Linear Algebra/(5) Linear Maps/Untitled 2.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis 1/(7) Integration/(28) Comparison test for Improper Integrals.md",
+                "file": "Linear Algebra/(5) Linear Maps/Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "c22b5235a877c933",
   "lastOpenFiles": [
-    "Analysis 1/(7) Integration/(28) Comparison test for Improper Integrals.md",
-    "Analysis 1/(7) Integration/(27) Improper Integral.md",
-    "Analysis 1/(7) Integration/(26) Integrating power series.md",
-    "Analysis 1/(6) Differentiation/(21) Differentiation of power series.md",
-    "Analysis 1/(6) Differentiation/(22) Trig Lemmas.md",
-    "Analysis 1/(7) Integration/(25) Sequences of Integrable Functions.md",
-    "Analysis 1/(7) Integration/(13) Integral as limit of sequences.md",
-    "Analysis 1/(7) Integration/(14) Continuous implies integrable.md",
-    "Analysis 1/(7) Integration/(12) Integrable by partitions.md",
-    "Analysis 1/(7) Integration/(11) Integrable.md"
+    "Linear Algebra/(5) Linear Maps/Untitled 2.md",
+    "Linear Algebra/(5) Linear Maps/(11) Mapping a Basis.md",
+    "Linear Algebra/(5) Linear Maps/(10) Linear maps agreeing on a basis.md",
+    "Linear Algebra/(5) Linear Maps/(9) Linear maps as matrices.md",
+    "Linear Algebra/(5) Linear Maps/(7) Injective.md",
+    "Linear Algebra/(5) Linear Maps/(5) Kernel.md",
+    "Linear Algebra/(5) Linear Maps/(4) Image.md",
+    "Linear Algebra/(5) Linear Maps/(3) Compositions.md",
+    "Linear Algebra/(5) Linear Maps/Untitled 7.md",
+    "Linear Algebra/(5) Linear Maps/Untitled 6.md"
   ]
 }

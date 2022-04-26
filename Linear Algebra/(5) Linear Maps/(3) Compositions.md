@@ -1,0 +1,1 @@
+For two [[(1) Linear Map]]s f, g, $g \circ f$ is a [[(1) Linear Map]]   

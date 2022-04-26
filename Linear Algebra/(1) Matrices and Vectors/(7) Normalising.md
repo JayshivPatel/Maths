@@ -1,0 +1,1 @@
+To convert any vector to a unit vector set u = v / $||v||$

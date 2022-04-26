@@ -1,0 +1,1 @@
+$0_n$ is a column vector height n with all entries 0

@@ -1,0 +1,1 @@
+If V is not finite-dimensional, then for any n, we can find a [[(14) Linearly independant]] subset of size n

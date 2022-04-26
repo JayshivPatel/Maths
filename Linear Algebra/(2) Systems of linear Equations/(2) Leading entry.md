@@ -1,0 +1,1 @@
+Left-most non-zero entry in a non-zero row
