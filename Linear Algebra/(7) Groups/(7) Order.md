@@ -1,0 +1,1 @@
+If G is finite with n different elements then $|G| = n$ and G has ==order== n. Otherwise G is infinite

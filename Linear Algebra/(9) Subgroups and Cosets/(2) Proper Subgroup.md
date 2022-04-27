@@ -1,0 +1,1 @@
+[[(1) Subgroup]]s that are not equal to the parent Group and non-trivial (i.e. not e)

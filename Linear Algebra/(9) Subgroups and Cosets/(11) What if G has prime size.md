@@ -1,0 +1,1 @@
+Let G have size p (a prime). Then G is [[(5) Cyclic]]

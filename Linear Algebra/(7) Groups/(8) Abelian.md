@@ -1,0 +1,1 @@
+A [[(6) Group]] is ==Abelian== if the operation is [[(3) Commutative]]

@@ -1,0 +1,3 @@
+- Compute all [[(5) Conjugacy Classes]]
+- Find all possible partitions of H in terms of conjugacy classes
+- Check if the partition forms a [[(1) Subgroup]]

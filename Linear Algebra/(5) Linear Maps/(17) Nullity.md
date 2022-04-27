@@ -1,1 +1,1 @@
-Nullity of f (Null f) is the dimension of [[(5) Kernel]] (f)
+Nullity of f (Null f) is the dimension of [[Linear Algebra/(5) Linear Maps/(5) Kernel]] (f)

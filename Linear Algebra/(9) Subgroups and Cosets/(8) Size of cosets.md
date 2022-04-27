@@ -1,0 +1,1 @@
+All left (or right) [[(5) Coset]] have the same size for any g

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linear Algebra/(6) Eigenvalues and Eigenvectors/(1) Determinant.md",
+            "file": "Linear Algebra/(11) First Isomorphism Theorem/(12) Extension of First Isomorphism with Lagrange.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra/(6) Eigenvalues and Eigenvectors/(1) Determinant.md",
+                "file": "Linear Algebra/(11) First Isomorphism Theorem/(12) Extension of First Isomorphism with Lagrange.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c22b5235a877c933",
   "lastOpenFiles": [
-    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(1) Determinant.md",
-    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(4) Properties of the determinant.md",
-    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(10) Diagonalisable.md",
-    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(11) Relation of eigenvalues to diagonal matrix.md",
-    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(13) Eigenspace as Subspace.md",
-    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(16) Orthogonal sets are linearly independant.md",
-    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(18) Gram-Schmidt Process.md",
-    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(25) Spectral Theorem.md",
-    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(24) Symmetric matrices are orthogonally diagonalizable.md",
-    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(23) Symmetric matrices have orthogonal eigenvalues.md"
+    "Linear Algebra/(11) First Isomorphism Theorem/(12) Extension of First Isomorphism with Lagrange.md",
+    "Linear Algebra/(11) First Isomorphism Theorem/(11) First Isomorphism Theorem.md",
+    "Linear Algebra/(11) First Isomorphism Theorem/(4) Group Isomorphism.md",
+    "Linear Algebra/(11) First Isomorphism Theorem/(8) Kernel and Image as Subgroups.md",
+    "Linear Algebra/(11) First Isomorphism Theorem/(10) Normal subgroups in terms of homomorphisms.md",
+    "Linear Algebra/(11) First Isomorphism Theorem/(9) Kernal as a Normal Subgroup.md",
+    "Linear Algebra/(11) First Isomorphism Theorem/(7) Injective.md",
+    "Linear Algebra/(11) First Isomorphism Theorem/(6) Image.md",
+    "Linear Algebra/(11) First Isomorphism Theorem/(5) Kernel.md",
+    "Linear Algebra/(11) First Isomorphism Theorem/(3) How are Subgroups affected by a Homomorphism.md"
   ]
 }

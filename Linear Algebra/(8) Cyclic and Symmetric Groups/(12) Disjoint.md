@@ -1,0 +1,1 @@
+When two [[(11) Cycle]]s do not overlap

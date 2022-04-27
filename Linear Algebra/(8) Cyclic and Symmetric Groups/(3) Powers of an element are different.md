@@ -1,0 +1,1 @@
+For some g with [[(1) Order]] n, the elements $g^0, g^1, .... g^{n-1}$ are all distinct

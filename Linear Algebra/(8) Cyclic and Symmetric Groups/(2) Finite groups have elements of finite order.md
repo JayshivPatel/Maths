@@ -1,0 +1,1 @@
+For a finite [[(6) Group]] G, every element of G has finite [[(1) Order]]

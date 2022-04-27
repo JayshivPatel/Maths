@@ -1,0 +1,1 @@
+Every finite [[(5) Cyclic]] group has at most one element [[(1) Order]] 2

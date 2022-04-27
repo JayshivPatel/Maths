@@ -1,0 +1,1 @@
+If G has [[(7) Order]] *n*, then the  [[(1) Order]] of g is at most *n*

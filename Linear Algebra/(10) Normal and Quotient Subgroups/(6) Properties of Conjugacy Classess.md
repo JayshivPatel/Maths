@@ -1,0 +1,2 @@
+- Any two [[(5) Conjugacy Classes]] are either disjoint or equal.
+- The conjugacy classes form a ==partition== of G

@@ -1,0 +1,1 @@
+Every element of g is in exactly one left (or right) [[(5) Coset]] of H
