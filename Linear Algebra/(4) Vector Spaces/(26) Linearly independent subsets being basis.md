@@ -1,1 +1,1 @@
-Any [[(14) Linearly independant]] subsets of V with size = dim V are bases
+Any [[(14) Linearly independent]] subsets of V with size = dim V are bases

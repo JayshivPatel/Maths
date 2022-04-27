@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"Analysis 1/(5) Continuity\"",
+  "search": "path:\"Linear Algebra/(6) Eigenvalues and Eigenvectors\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224482,
+  "scale": 0.508761885579265,
   "close": false
 }

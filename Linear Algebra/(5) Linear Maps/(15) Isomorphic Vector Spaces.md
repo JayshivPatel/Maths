@@ -1,0 +1,1 @@
+For two isomorphic [[(1) Vector Space]]s, dim U = dim V

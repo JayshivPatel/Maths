@@ -1,0 +1,1 @@
+For A [[(21) Symmetric]], any two eigenvectors will be [[(14) Orthogonal]]

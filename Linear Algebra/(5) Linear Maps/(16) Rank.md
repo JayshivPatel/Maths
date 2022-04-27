@@ -1,0 +1,1 @@
+Rank of a [[(1) Linear Map]] (f)  is the dimension of [[(4) Image]] of f

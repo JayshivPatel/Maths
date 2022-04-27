@@ -1,0 +1,1 @@
+A matrix A is [[(14) Orthogonal]]ly [[(10) Diagonalisable]] $\iff$ A is [[(21) Symmetric]]

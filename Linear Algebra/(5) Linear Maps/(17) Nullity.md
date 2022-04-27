@@ -1,0 +1,1 @@
+Nullity of f (Null f) is the dimension of [[(5) Kernel]] (f)

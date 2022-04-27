@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linear Algebra/(5) Linear Maps/Untitled 2.md",
+            "file": "Linear Algebra/(6) Eigenvalues and Eigenvectors/(1) Determinant.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra/(5) Linear Maps/Untitled 2.md",
+                "file": "Linear Algebra/(6) Eigenvalues and Eigenvectors/(1) Determinant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "c22b5235a877c933",
   "lastOpenFiles": [
-    "Linear Algebra/(5) Linear Maps/Untitled 2.md",
-    "Linear Algebra/(5) Linear Maps/(11) Mapping a Basis.md",
-    "Linear Algebra/(5) Linear Maps/(10) Linear maps agreeing on a basis.md",
-    "Linear Algebra/(5) Linear Maps/(9) Linear maps as matrices.md",
-    "Linear Algebra/(5) Linear Maps/(7) Injective.md",
-    "Linear Algebra/(5) Linear Maps/(5) Kernel.md",
-    "Linear Algebra/(5) Linear Maps/(4) Image.md",
-    "Linear Algebra/(5) Linear Maps/(3) Compositions.md",
-    "Linear Algebra/(5) Linear Maps/Untitled 7.md",
-    "Linear Algebra/(5) Linear Maps/Untitled 6.md"
+    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(1) Determinant.md",
+    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(4) Properties of the determinant.md",
+    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(10) Diagonalisable.md",
+    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(11) Relation of eigenvalues to diagonal matrix.md",
+    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(13) Eigenspace as Subspace.md",
+    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(16) Orthogonal sets are linearly independant.md",
+    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(18) Gram-Schmidt Process.md",
+    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(25) Spectral Theorem.md",
+    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(24) Symmetric matrices are orthogonally diagonalizable.md",
+    "Linear Algebra/(6) Eigenvalues and Eigenvectors/(23) Symmetric matrices have orthogonal eigenvalues.md"
   ]
 }

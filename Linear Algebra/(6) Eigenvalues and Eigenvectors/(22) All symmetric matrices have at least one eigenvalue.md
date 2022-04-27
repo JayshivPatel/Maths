@@ -1,0 +1,1 @@
+For A [[(21) Symmetric]], by the Fundamental Theorem of Algebra, we have the A has at least one real [[(6) Eigenvalue]] and all its eigenvalues are real.

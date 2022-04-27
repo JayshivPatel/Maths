@@ -1,0 +1,1 @@
+For any [[(14) Orthogonal]] set, it is [[(14) Linearly independent]]
